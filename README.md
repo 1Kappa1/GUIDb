@@ -176,7 +176,7 @@ public partial class MainPage : ContentPage
 
 ```
 
-###Codice per la classe
+### Codice per la classe
 
 ```
 
